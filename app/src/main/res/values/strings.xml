@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pr.3</string>
+    <string name="button_1">Button 1</string>
+    <string name="enter_text">Enter text</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="button_2">Button 2</string>
+    <string name="hello_relativelayout">Hello, RelativeLayout!</string>
+    <string name="button_3">Button 3</string>
+    <string name="hello_constraintlayout">Hello, ConstraintLayout!</string>
+    <string name="button_4">Button 4</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="framelayout">FrameLayout</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="go_to_third_activity">Go to ThirdActivity</string>
+</resources>

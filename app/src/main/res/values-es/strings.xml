@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="button_1">Boton 1 </string>
+    <string name="button_2">Boton 2 </string>
+    <string name="hello_relativelayout">Hola, RelativeLayout!</string>
+    <string name="button_3">Boton 3</string>
+    <string name="hello_constraintlayout">Hola, ConstraintLayout!</string>
+    <string name="enter_text">Introducir Texto </string>
+    <string name="button_4">Button 4</string>
+    <string name="go_to_second_activity">Ir a la Segunda Actividad</string>
+    <string name="framelayout">FrameLayout</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="back_to_main">Regresar</string>
+    <string name="go_to_third_activity">Ir a la tercera actividad</string>
+</resources>
